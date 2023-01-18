@@ -1,0 +1,14 @@
+#Modules
+node_modules/
+
+#resources
+src/resources
+
+#BD scheme
+*.jpg
+
+#Sequelize config
+config/config.json
+
+#.env
+.env
